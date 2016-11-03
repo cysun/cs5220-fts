@@ -1,0 +1,21 @@
+CS520 Spring 2007, Homework 2
+
+Mailing Lists is a new component of CSNS which you will develop in this quarter.
+In this assignment you are going to implement the "model" classes and database
+access for this component, and your design should be based on the following
+requirements:
+
+* Any user can create mailing lists. The user who creates a mailing list
+  becomes the owner of the mailing list, and is automatically subscribed
+  to the list.
+* A user can subscribe to any existing mailing list and become a subscriber
+  of the mailing list.
+* A subscriber of a mailing list may unsubscribe from a mailing list. The
+  owner of the mailing list can unsubscribe any subscriber of the list except
+  him or herself.
+* A user can view existing mailing lists.
+* Any subscriber of a mailing list can send messages to the mailing list.
+  The message must be sent using CSNS, i.e. not using an external email client.
+  The message will be mailed by CSNS to the subscribers of the mailing list,
+  and a copy of the message will be saved in the database.
+* A user may view the messages sent to a mailing list.

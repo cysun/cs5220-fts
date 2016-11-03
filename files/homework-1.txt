@@ -1,0 +1,14 @@
+CS520 Spring 2007, Homework 1
+
+[Account] Send an email to csun@calstatela.edu and ask for account information
+on the CS3 server. You have to be already enrolled in the class in order to get
+an account. Note that the account includes a Subversion repository, and a copy
+of the CSNS source code is already imported into the repository for you.
+
+[Development Environment] Check out the CSNS source code from your Subversion
+repository, and setup your development environment. Refer to the class notes,
+but you don't have to follow them exactly, e.g. if you prefer NetBeans over
+Eclipse. If you have any questions, post them in the class forum. To avoid
+confusion, in the assignment descriptions I'll use CSNS (i.e. without hyperlink)
+to refer to the project, and CSNS (i.e. with hyperlink) to refer to the server
+where you submit your work.
